@@ -57,6 +57,6 @@ int main() {
     display(first);
     int key = 5;
     printf("Frequency of %d: %d\n", key, freq(first, key));
-    freeMemory(first); // Free the allocated memory
+    freeMemory(first); // Free the allocated memory 
     return 0;
 }
