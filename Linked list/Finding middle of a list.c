@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
+#include<math.h>
 struct Node
 {
     /* data */
@@ -27,7 +28,27 @@ void create(int A[],int n)
 
 }
 
-void middle(struct Node *p)
+
+void middle2(struct Node *p)
+{   int index;
+    int l=0;
+    while(p)
+    {   
+        l++;
+        p=p->next;}
+        int bla=l/2;
+  index= ceil( bla);
+   struct Node *q=first;
+   for(int i=0;i<index;i++)
+   {
+    q=q->next;
+   }
+   printf("%d",q->data);
+}
+
+
+
+void middle1(struct Node *p)
 {
     struct Node *q;
     q=p;
@@ -58,10 +79,11 @@ void display(struct Node *p)
 
 int main()
 {
-    int A[]={1,2,3,4,5};
-    create(A,5);
+    int A[]={1,2,3,4,5,6,8};
+    create(A,7);
     display(first);
     printf("The middle element of this list is :\n");
-    middle(first);
+    middle1(first);
+    middle2(first);
     return 0;
 }
