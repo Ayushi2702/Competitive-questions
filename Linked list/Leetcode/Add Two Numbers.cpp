@@ -16,7 +16,7 @@ public:
         }
         while(l1)
         {
-            int value=l1->val+carry;
+            int value=l1->val+carry; //logic
             carry=value/10;
             l3->next=new ListNode(value%10);
             l3=l3->next;
