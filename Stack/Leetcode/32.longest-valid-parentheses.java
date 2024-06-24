@@ -3,7 +3,45 @@
  *
  * [32] Longest Valid Parentheses
  */
+Link to the first Approach : https://leetcode.com/problems/longest-valid-parentheses/solutions/5360440/longest-valid-parenthesis-approach-1
 
+Link to the second Approach : https://leetcode.com/problems/longest-valid-parentheses/solutions/5360566/longest-valid-parenthesis-approach-2
+
+//first approach 
+
+class Solution2 {
+    public int longestValidParentheses(String s) {
+  Stack<Integer>stack= new Stack<>();
+  stack.push(-1);
+  int max=0;
+
+  for(int i=0;i<s.length();i++)
+  {
+    char c= s.charAt(i);
+
+    if(c=='(')
+    {
+        stack.push(i);
+    }
+
+    else{
+        stack.pop();
+        if(stack.isEmpty())
+        {
+            stack.push(i);
+        }
+        else{
+            int l=i-stack.peek();
+            max=Math.max(max,len);
+        }
+    }
+  }
+
+return max;
+
+    }
+
+//second approach
 // @lc code=start
 class Solution {
     public int longestValidParentheses(String s) {
@@ -66,37 +104,3 @@ class Solution {
     }
 }
 // @lc code=end
-
-//second approach
-
-class Solution2 {
-    public int longestValidParentheses(String s) {
-  Stack<Integer>stack= new Stack<>();
-  stack.push(-1);
-  int max=0;
-
-  for(int i=0;i<s.length();i++)
-  {
-    char c= s.charAt(i);
-
-    if(c=='(')
-    {
-        stack.push(i);
-    }
-
-    else{
-        stack.pop();
-        if(stack.isEmpty())
-        {
-            stack.push(i);
-        }
-        else{
-            int l=i-stack.peek();
-            max=Math.max(max,len);
-        }
-    }
-  }
-
-return max;
-
-    }

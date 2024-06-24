@@ -1,3 +1,6 @@
+My Solution to this Problem : https://leetcode.com/problems/valid-parentheses/solutions/5354987/valid-paranthesis
+
+
 package Stack.Leetcode;
 class Solution {
     public boolean isValid(String s) {
@@ -21,3 +24,5 @@ class Solution {
 
     }
 }
+
+
