@@ -1,3 +1,5 @@
+check out my explaination : https://leetcode.com/problems/simplify-path/solutions/5365124/simplify-path-an-easy-approach
+
 class Solution {
     public String simplifyPath(String path) {
         Stack<String> stack = new Stack<>(); // Initialize the stack
