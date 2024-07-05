@@ -1,3 +1,4 @@
+Here is the link to my explaination : https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/5414465/flatten-binary-tree-to-linked-list-an-easy-approach-using-stack
 /*
  * @lc app=leetcode id=114 lang=java
  *
