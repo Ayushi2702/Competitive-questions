@@ -1,4 +1,4 @@
-The link to my explaination is here : https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/5412151/binary-tree-inorder-traversal-an-easy-approach-using-a-stack
+Check out my explaination: https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/5412151/binary-tree-inorder-traversal-an-easy-approach-using-a-stack
 
 /*
  * @lc app=leetcode id=94 lang=java
