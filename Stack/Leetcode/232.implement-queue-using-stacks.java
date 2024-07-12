@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-class MyQueue {
+class MyQueue { //start
 
     public MyQueue() {
         
