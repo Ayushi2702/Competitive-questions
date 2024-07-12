@@ -5,6 +5,9 @@
  */
 
 // @lc code=start
+here is my explaination : https://leetcode.com/problems/trapping-rain-water/solutions/5464029/trapping-rain-water-an-easy-approach-explained-with-image
+
+
 class Solution {
     public int trap(int[] height) {
         
