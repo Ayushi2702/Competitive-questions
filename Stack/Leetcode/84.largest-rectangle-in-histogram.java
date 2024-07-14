@@ -4,6 +4,8 @@
  * [84] Largest Rectangle in Histogram
  */
 
+here is my explaination to the problem : https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/5474169/largest-rectangle-in-histogram-easy-explaination-through-images/
+
 // @lc code=start
 import java.util.Stack;
 
