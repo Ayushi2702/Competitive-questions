@@ -4,6 +4,8 @@
  * [144] Binary Tree Preorder Traversal
  */
 
+here is my explaination : https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/5502745/binary-tree-preorder-traversal
+
 // @lc code=start
 
 import java.util.Stack;
