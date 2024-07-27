@@ -6,6 +6,8 @@
 
 // @lc code=start
 
+here  is my explaination to it : https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/5544959/binary-tree-postorder-traversal-easy-explaination
+
 import java.util.LinkedList;
 import java.util.Stack;
 
