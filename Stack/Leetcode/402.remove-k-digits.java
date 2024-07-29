@@ -7,7 +7,12 @@
 // @lc code=start
 class Solution {
     public String removeKdigits(String num, int k) {
-        
+          
+       
+    
+
+
+
     }
 }
 // @lc code=end
