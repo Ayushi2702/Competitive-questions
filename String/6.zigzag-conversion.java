@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+
+check out my explaination here : https://leetcode.com/problems/zigzag-conversion/solutions/5724260/zigzag-conversion-easiest-explaination-you-ll-see
 class Solution {
     public String convert(String s, int numRows) {
         if(numRows==1 || numRows>=s.length()){
