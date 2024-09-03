@@ -6,6 +6,8 @@
 
 // @lc code=start
 
+Here is my  detailed explanation : https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/5729939/longest-substring-without-repeating-characters-easiest-explaination-you-ll-see 
+
 import java.util.Map;
 
 class Solution {
