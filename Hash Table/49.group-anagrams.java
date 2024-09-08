@@ -7,8 +7,28 @@
 // @lc code=start
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        
+        Map<String, List<String>> map = new HashMap<>();
+
+        for (String str : strs) {
+            char[] charArray = str.toCharArray();
+            Arrays.sort(charArray);
+
+            String sorted = new String(charArray);
+
+            if (!map.containsKey(sorted)) {
+                map.put(sorted, new ArrayList<>());
+            }
+
+            map.get(sorted).add(str);
+        }
+
+        // Create a list of grouped anagrams from the map values
+        List<List<String>> result = new ArrayList<>(map.values());
+
+        // Return the result
+        return result;
     }
 }
+
 // @lc code=end
 
