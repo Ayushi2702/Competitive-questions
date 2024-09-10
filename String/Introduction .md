@@ -16,6 +16,8 @@ Do checkout.
 
 [17.Letter combinations of phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/5761340/letter-combinations-of-a-phone-number-easiest-explanation-you-ll-see)
 
+[14.Longest common prefix](https://leetcode.com/problems/longest-common-prefix/solutions/5763672/longest-common-prefix-easiest-explanation-you-ll-see)
+
 
 
 Happy Coding !!
