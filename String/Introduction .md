@@ -18,6 +18,8 @@ Do checkout.
 
 [14.Longest common prefix](https://leetcode.com/problems/longest-common-prefix/solutions/5763672/longest-common-prefix-easiest-explanation-you-ll-see)
 
+[3.Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/5729939/longest-substring-without-repeating-characters-easiest-explaination-youll-see)
+
 
 
 Happy Coding !!
