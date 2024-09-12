@@ -9,6 +9,6 @@
 
  Step 1 : Choose the data structure you want to solve .
 
- [1](1.png)
+ [1](C:\Users\Asus\OneDrive\Desktop\Competitive questions\Guide\1.png)
 
  
