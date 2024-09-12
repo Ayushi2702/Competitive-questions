@@ -7,4 +7,8 @@
 
  Follow these steps to navigate your way through this repo : 
 
+ Step 1 : Choose the data structure you want to solve .
+
+ [1](1.png)
+
  
