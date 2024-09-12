@@ -9,6 +9,6 @@
 
  Step 1 : Choose the data structure you want to solve .
 
- [1](C:\Users\Asus\OneDrive\Desktop\Competitive questions\Guide\1.png)
+![1](https://github.com/user-attachments/assets/8406fb8b-d82b-48ac-a05a-85ea3f2e5d9a)
 
  
