@@ -1,4 +1,4 @@
-999999/*
+/*
  * @lc app=leetcode id=36 lang=java
  *
  * [36] Valid Sudoku
