@@ -13,3 +13,5 @@ Happy Coding !!
 [15.Three Sum](https://leetcode.com/problems/3sum/solutions/5768776/3sum-easiest-explanation-you-ll-see)
 
 [11.Container with Most Water](https://leetcode.com/problems/container-with-most-water/solutions/5774286/easiest-explanation-youll-see-with-images)
+
+[88.Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/solutions/5789546/merge-sorted-array-easiest-explanation-you-ll-see)
