@@ -15,3 +15,5 @@ Happy Coding !!
 [11.Container with Most Water](https://leetcode.com/problems/container-with-most-water/solutions/5774286/easiest-explanation-youll-see-with-images)
 
 [88.Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/solutions/5789546/merge-sorted-array-easiest-explanation-you-ll-see)
+
+[27.Remove Element](https://leetcode.com/problems/remove-element/solutions/5792683/remove-element-easiest-explanation-youll-see)
