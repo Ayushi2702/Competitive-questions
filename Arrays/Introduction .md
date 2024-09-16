@@ -17,3 +17,5 @@ Happy Coding !!
 [88.Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/solutions/5789546/merge-sorted-array-easiest-explanation-you-ll-see)
 
 [27.Remove Element](https://leetcode.com/problems/remove-element/solutions/5792683/remove-element-easiest-explanation-youll-see)
+
+[26.Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/5795253/remove-duplicates-from-sorted-array-easiest-explanation)
