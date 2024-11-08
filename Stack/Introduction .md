@@ -26,3 +26,11 @@ Happy Coding !!
 
 [32.Longest Valid Paranthesis](https://leetcode.com/problems/longest-valid-parentheses/solutions/5360440/longest-valid-parenthesis-approach-1)
 
+[20.Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/solutions/5354987/valid-paranthesis)
+
+[94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/5412151/binary-tree-inorder-traversal-an-easy-approach-using-a-stack)
+
+[71.Simplify Path](https://leetcode.com/problems/simplify-path/solutions/5365124/simplify-path-an-easy-approach)
+
+[]()
+
